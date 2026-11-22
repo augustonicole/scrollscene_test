@@ -1,0 +1,2 @@
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.chips span { border: 1px solid var(--line); border-radius: 999px; padding: 5px 14px; font-size: 14px; background: rgba(255, 255, 255, 0.08); }

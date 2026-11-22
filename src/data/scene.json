@@ -1,0 +1,245 @@
+{
+  "sky": [
+    {
+      "p": 0,
+      "top": "#3b4a7a",
+      "bottom": "#f6b78f",
+      "dark": 0.25
+    },
+    {
+      "p": 0.25,
+      "top": "#5aa7e6",
+      "bottom": "#c2e4f6",
+      "dark": 0
+    },
+    {
+      "p": 0.5,
+      "top": "#4a9be0",
+      "bottom": "#b5def5",
+      "dark": 0
+    },
+    {
+      "p": 0.72,
+      "top": "#8a5f9e",
+      "bottom": "#ff9a6a",
+      "dark": 0.35
+    },
+    {
+      "p": 0.88,
+      "top": "#1b2150",
+      "bottom": "#5a3a6a",
+      "dark": 0.85
+    },
+    {
+      "p": 1,
+      "top": "#070a1a",
+      "bottom": "#18214a",
+      "dark": 1
+    }
+  ],
+  "sun": [
+    {
+      "p": -10,
+      "x": 50,
+      "y": 47
+    },
+    {
+      "p": 0,
+      "x": 10,
+      "y": 85
+    },
+    {
+      "p": 0.5,
+      "x": 68,
+      "y": 15
+    },
+    {
+      "p": 0.72,
+      "x": 82,
+      "y": 47
+    },
+    {
+      "p": 0.88,
+      "x": 90,
+      "y": 82
+    }
+  ],
+  "moon": [
+    {
+      "p": 0.7,
+      "x": 18,
+      "y": 85
+    },
+    {
+      "p": 0.85,
+      "x": 28,
+      "y": 42
+    },
+    {
+      "p": 1,
+      "x": 40,
+      "y": 22
+    }
+  ],
+  "clouds": [
+    {
+      "shape": "cloud-2",
+      "x": 62,
+      "y": 24,
+      "w": 30,
+      "speed": -14
+    },
+    {
+      "shape": "cloud-1",
+      "x": 14,
+      "y": 42,
+      "w": 24,
+      "speed": 10
+    },
+    {
+      "shape": "cloud-3",
+      "x": 36,
+      "y": 14,
+      "w": 20,
+      "speed": 8
+    },
+    {
+      "shape": "cloud-1",
+      "x": 86,
+      "y": 40,
+      "w": 16,
+      "speed": -8
+    }
+  ],
+  "mountains": [
+    {
+      "shape": "montanha-4",
+      "bottom": 0,
+      "height": 52,
+      "depth": 6,
+      "day": "#46457a",
+      "night": "#141a3a"
+    },
+    {
+      "shape": "montanha-3",
+      "bottom": 0,
+      "height": 38,
+      "depth": 12,
+      "day": "#3a3a6c",
+      "night": "#0f1530"
+    },
+    {
+      "shape": "montanha-2",
+      "bottom": -8,
+      "height": 30,
+      "depth": 18,
+      "day": "#2c2c56",
+      "night": "#0b102a"
+    }
+  ],
+  "tones": {
+    "back": {
+      "day": "#3a3a6c",
+      "night": "#0c1228"
+    },
+    "mid": {
+      "day": "#2c2c56",
+      "night": "#090e20"
+    },
+    "front": {
+      "day": "#1f1f3d",
+      "night": "#04060e"
+    }
+  },
+  "pines": [
+    {
+      "x": 8,
+      "bottom": 0,
+      "h": 88,
+      "shape": "pinheiro-2",
+      "flip": false,
+      "tone": "front"
+    },
+    {
+      "x": 1,
+      "bottom": 0,
+      "h": 55,
+      "shape": "pinheiro-4",
+      "flip": true,
+      "tone": "front"
+    },
+    {
+      "x": 22,
+      "bottom": 0,
+      "h": 42,
+      "shape": "pinheiro-3",
+      "flip": false,
+      "tone": "mid"
+    },
+    {
+      "x": 93,
+      "bottom": 0,
+      "h": 92,
+      "shape": "pinheiro-1",
+      "flip": true,
+      "tone": "front"
+    },
+    {
+      "x": 99,
+      "bottom": 0,
+      "h": 58,
+      "shape": "pinheiro-5",
+      "flip": false,
+      "tone": "front"
+    },
+    {
+      "x": 80,
+      "bottom": 0,
+      "h": 38,
+      "shape": "pinheiro-3",
+      "flip": true,
+      "tone": "mid"
+    },
+    {
+      "x": 30,
+      "bottom": 6,
+      "h": 14,
+      "shape": "pinheiro-5",
+      "flip": false,
+      "tone": "mid"
+    },
+    {
+      "x": 38,
+      "bottom": 6,
+      "h": 10,
+      "shape": "pinheiro-1",
+      "flip": false,
+      "tone": "back"
+    },
+    {
+      "x": 46,
+      "bottom": 3,
+      "h": 9,
+      "shape": "pinheiro-4",
+      "flip": true,
+      "tone": "mid"
+    },
+    {
+      "x": 62,
+      "bottom": 6,
+      "h": 12,
+      "shape": "pinheiro-2",
+      "flip": false,
+      "tone": "back"
+    },
+    {
+      "x": 70,
+      "bottom": 5,
+      "h": 15,
+      "shape": "pinheiro-3",
+      "flip": true,
+      "tone": "mid"
+    }
+  ],
+  "stars": 70
+}

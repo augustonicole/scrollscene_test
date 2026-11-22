@@ -1,0 +1,6 @@
+.work { padding: 0; overflow: hidden; transition: transform 0.25s; }
+.work:hover { transform: translateY(-6px); }
+.thumb { height: 170px; }
+.body { padding: 18px 22px 22px; }
+.tag { color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; }
+.body h3 { margin: 4px 0; }

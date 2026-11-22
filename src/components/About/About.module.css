@@ -1,0 +1,8 @@
+.about { display: grid; gap: 28px; grid-template-columns: 1fr 2fr; align-items: center; }
+.avatar {
+  aspect-ratio: 1; border-radius: 50%; background: linear-gradient(160deg, #ffc46b, #6b4a9a);
+  display: grid; place-items: center; font-size: clamp(48px, 9vw, 84px); font-weight: 700;
+  max-width: 260px; width: 100%; margin: auto;
+}
+.p { margin-bottom: 12px; }
+@media (max-width: 760px) { .about { grid-template-columns: 1fr; } }

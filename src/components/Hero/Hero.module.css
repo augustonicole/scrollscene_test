@@ -1,0 +1,4 @@
+.hero { min-height: 100vh; display: flex; align-items: center; text-align: center; }
+.hero h1 { font-size: clamp(36px, 8vw, 76px); line-height: 1.1; text-shadow: 0 2px 20px rgba(0, 0, 0, 0.4); }
+.hero p { font-size: clamp(16px, 2.4vw, 21px); max-width: 620px; margin: 18px auto 28px; text-shadow: 0 1px 10px rgba(0, 0, 0, 0.5); }
+.role { letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); }

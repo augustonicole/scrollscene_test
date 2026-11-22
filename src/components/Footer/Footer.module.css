@@ -1,0 +1,2 @@
+.footer { padding: 60px 20px calc(40px + env(safe-area-inset-bottom, 0px)); text-align: center; font-size: 14px; opacity: 0.9; }
+.trees { font-size: 26px; margin-bottom: 8px; }
